@@ -1,0 +1,11 @@
+{
+    "name": "Foxglove-Studio",
+    "author": "Foxglove",
+    "version": "1.0",
+    "description": "Foxglove",
+    "html_file": "index.html",
+    "uuid": "c7971725e68f58eb111d3a58d079db53dd9a4a58c32508afd6a36eb3f4f6ec74",
+    "hidden": false,
+    "remote_package": false,
+    "remote_url": ""
+}
